@@ -1,11 +1,11 @@
-package _04_Count_Digits;
+package _05_LargestNumber;
 
 import java.util.Scanner;
 
 /**
  * This class contains a program to find the largest among three given numbers using a ternary operator.
  */
-public class _04_FindLargestNumber {
+public class _02_FindLargestNumber {
 
     public static void main(String[] args) {
         // Create a Scanner object to read input from the console
