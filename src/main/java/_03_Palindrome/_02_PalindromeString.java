@@ -6,6 +6,7 @@ import java.util.Scanner;
  * This class contains a program to check if a given string is a palindrome.
  */
 public class _02_PalindromeString {
+
     public static void main(String[] args) {
 
         // Create a Scanner object to read input from the console

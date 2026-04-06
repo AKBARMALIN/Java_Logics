@@ -6,6 +6,7 @@ import java.util.Scanner;
  * This class contains a program to count the number of even and odd digits in a given number.
  */
 public class _02_CountEvenOrOddNumbers {
+
     public static void main(String[] args) {
 
         // Create a Scanner object to read input from the console
@@ -25,6 +26,7 @@ public class _02_CountEvenOrOddNumbers {
         while(num != 0) {
             // Extract the last digit of the number
             int digit = num % 10;
+
             // Check if the digit is even
             if(digit % 2 == 0) {
                 // Increment the even count
@@ -33,6 +35,7 @@ public class _02_CountEvenOrOddNumbers {
                 // Increment the odd count
                 oddCount++;
             }
+
             // Remove the last digit from the number
             num = num / 10;
         }

@@ -6,6 +6,7 @@ import java.util.Scanner;
  * This class contains a program to check if a given number is a palindrome.
  */
 public class _01_PalindromeNumber {
+
     public static void main(String[] args) {
 
         // Create a Scanner object to read input from the console
@@ -27,6 +28,7 @@ public class _01_PalindromeNumber {
         while(num != 0) {
             // Calculate the reversed number by adding the last digit
             rev = rev * 10 + num % 10;
+
             // Remove the last digit from the original number
             num = num / 10;
         }

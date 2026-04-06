@@ -25,6 +25,7 @@ public class _01_ReverseANumber {
         while(num != 0) {
             // Calculate the reversed number by adding the last digit
             rev = rev * 10 + num % 10;
+
             // Remove the last digit from the original number
             num = num / 10;
         }

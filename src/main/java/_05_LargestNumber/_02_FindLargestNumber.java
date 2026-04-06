@@ -8,21 +8,25 @@ import java.util.Scanner;
 public class _02_FindLargestNumber {
 
     public static void main(String[] args) {
+
         // Create a Scanner object to read input from the console
         Scanner sc = new Scanner(System.in);
 
         // Prompt the user to enter the first number
         System.out.print("Enter the first Number: ");
+
         // Read the first integer input
         int num1 = sc.nextInt();
 
         // Prompt the user to enter the second number
         System.out.print("Enter the second Number: ");
+
         // Read the second integer input
         int num2 = sc.nextInt();
 
         // Prompt the user to enter the third number
         System.out.print("Enter the third Number: ");
+
         // Read the third integer input
         int num3 = sc.nextInt();
 

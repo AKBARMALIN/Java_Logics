@@ -6,6 +6,7 @@ import java.util.Scanner;
  * This class contains a program to count the number of digits in a given number.
  */
 public class _01_CountNumberOfDigits {
+
     public static void main(String[] args) {
 
         // Create a Scanner object to read input from the console

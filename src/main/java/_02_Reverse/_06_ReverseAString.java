@@ -4,6 +4,7 @@ package _02_Reverse;
  * This class contains a program to reverse a given string using StringBuilder.
  */
 public class _06_ReverseAString {
+
     public static void main(String[] args) {
 
         // Initialize the original string to be reversed

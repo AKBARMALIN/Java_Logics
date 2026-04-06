@@ -5,6 +5,7 @@ package _01_Swapping;
  * This is the traditional and most straightforward approach to swap two values.
  */
 public class _01_Swapping {
+
     public static void main(String[] args) {
 
         // Initialize two integers
