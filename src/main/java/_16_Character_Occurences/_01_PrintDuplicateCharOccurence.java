@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class _01_PrintDuplicateCharOccurence {
+
     public static void main(String[] args) {
 
         // Test cases

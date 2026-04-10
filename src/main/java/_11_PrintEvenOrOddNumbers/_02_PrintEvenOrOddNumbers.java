@@ -2,7 +2,9 @@ package _11_PrintEvenOrOddNumbers;
 
 // Class to identify and print whether numbers in an array are even or odd
 public class _02_PrintEvenOrOddNumbers {
+
     public static void main(String[] args) {
+
         // Initialize an array containing integers from 1 to 10
         int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 

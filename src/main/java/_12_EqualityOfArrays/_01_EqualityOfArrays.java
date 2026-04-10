@@ -5,13 +5,14 @@ import java.util.Arrays;
 
 // Class to check equality of two arrays using Arrays.equals() method
 public class _01_EqualityOfArrays {
+
     public static void main(String[] args) {
 
         // Initialize first array with sample integers
-        int arr1[] = {1, 2, 3, 4, 5};
+        int[] arr1 = {1, 2, 3, 4, 5};
 
         // Initialize second array with sample integers
-        int arr2[] = {1, 2, 3, 4, 6};
+        int[] arr2 = {1, 2, 3, 4, 6};
 
         // Use Arrays.equals() to compare both arrays and store the result
         // This method returns true if both arrays have the same length and corresponding elements are equal

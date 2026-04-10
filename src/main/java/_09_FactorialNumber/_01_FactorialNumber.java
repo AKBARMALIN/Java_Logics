@@ -1,6 +1,7 @@
 package _09_FactorialNumber;
 
 public class _01_FactorialNumber {
+
     public static void main(String[] args) {
 
         // Number for which factorial needs to be calculated
