@@ -1,4 +1,4 @@
-package _22_PrintStatements;
+package _22_print_statements;
 
 public class _03_PrintHelloWorldWithoutSemicolon {
 
