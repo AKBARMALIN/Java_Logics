@@ -1,4 +1,4 @@
-package _16_Character_Occurences;
+package _16_character_occurences;
 
 public class _06_CountCharacterOccurence {
 

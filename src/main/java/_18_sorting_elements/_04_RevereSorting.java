@@ -1,4 +1,4 @@
-package _18_SortingElements;
+package _18_sorting_elements;
 
 import java.util.Arrays;
 import java.util.Collections;

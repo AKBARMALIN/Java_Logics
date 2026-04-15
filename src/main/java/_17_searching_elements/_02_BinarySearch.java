@@ -1,4 +1,4 @@
-package _17_SearchingElements;
+package _17_searching_elements;
 
 public class _02_BinarySearch {
 

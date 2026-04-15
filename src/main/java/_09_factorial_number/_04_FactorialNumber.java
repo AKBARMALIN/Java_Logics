@@ -1,4 +1,4 @@
-package _09_FactorialNumber;
+package _09_factorial_number;
 
 // Import BigInteger class to handle large integer values that exceed regular int limit
 import java.math.BigInteger;

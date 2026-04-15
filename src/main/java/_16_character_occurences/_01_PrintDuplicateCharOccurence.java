@@ -1,4 +1,4 @@
-package _16_Character_Occurences;
+package _16_character_occurences;
 
 // Importing required classes
 import java.util.HashMap;

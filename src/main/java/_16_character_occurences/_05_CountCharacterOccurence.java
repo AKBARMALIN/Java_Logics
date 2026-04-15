@@ -1,4 +1,4 @@
-package _16_Character_Occurences;
+package _16_character_occurences;
 
 // Importing StringUtils class from Apache Commons Lang library
 // It provides utility methods for String operations

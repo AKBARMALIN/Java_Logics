@@ -1,4 +1,4 @@
-package _19_RemoveCharacters;
+package _19_remove_characters;
 
 public class _03_RemoveWhiteSpaces {
 

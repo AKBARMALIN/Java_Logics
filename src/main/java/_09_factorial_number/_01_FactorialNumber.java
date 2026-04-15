@@ -1,4 +1,4 @@
-package _09_FactorialNumber;
+package _09_factorial_number;
 
 public class _01_FactorialNumber {
 

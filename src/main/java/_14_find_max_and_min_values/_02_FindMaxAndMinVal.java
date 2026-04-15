@@ -1,4 +1,4 @@
-package _14_FindMaxAndMinValues;
+package _14_find_max_and_min_values;
 
 import java.util.Arrays;
 

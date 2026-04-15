@@ -1,4 +1,4 @@
-package _15_FindDuplicateElements;
+package _15_find_duplicate_elements;
 
 public class _01_FindDuplicates {
 

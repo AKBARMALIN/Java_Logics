@@ -1,4 +1,4 @@
-package _18_SortingElements;
+package _18_sorting_elements;
 
 // Importing Arrays class to use utility methods like toString()
 import java.util.Arrays;

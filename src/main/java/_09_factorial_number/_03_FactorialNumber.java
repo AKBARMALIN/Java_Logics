@@ -1,4 +1,4 @@
-package _09_FactorialNumber;
+package _09_factorial_number;
 
 // Class to calculate factorial of a number using a method with loop iteration
 public class _03_FactorialNumber {

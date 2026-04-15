@@ -1,4 +1,4 @@
-package _17_SearchingElements;
+package _17_searching_elements;
 
 // Importing Arrays class to use built-in binarySearch method
 import java.util.Arrays;

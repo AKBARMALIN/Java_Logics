@@ -1,4 +1,4 @@
-package _13_FindingMissingNumbers;
+package _13_finding_missing_numbers;
 
 public class _01_FindMissingNumber {
 

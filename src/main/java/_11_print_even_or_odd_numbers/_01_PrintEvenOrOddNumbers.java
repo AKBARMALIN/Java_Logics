@@ -1,4 +1,4 @@
-package _11_PrintEvenOrOddNumbers;
+package _11_print_even_or_odd_numbers;
 
 // Class to identify and print whether numbers in an array are even or odd
 public class _01_PrintEvenOrOddNumbers {

@@ -1,4 +1,4 @@
-package _12_EqualityOfArrays;
+package _12_equality_of_arrays;
 
 // Class to check equality of two arrays
 public class _02_EqualityOfTwoArrays {

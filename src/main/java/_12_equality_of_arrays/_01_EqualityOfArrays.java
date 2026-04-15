@@ -1,4 +1,4 @@
-package _12_EqualityOfArrays;
+package _12_equality_of_arrays;
 
 // Import the Arrays utility class for comparing arrays
 import java.util.Arrays;

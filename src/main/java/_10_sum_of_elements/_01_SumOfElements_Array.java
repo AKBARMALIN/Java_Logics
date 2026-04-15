@@ -1,4 +1,4 @@
-package _10_SumOfElements;
+package _10_sum_of_elements;
 
 // Class to calculate the sum of all elements in an array
 public class _01_SumOfElements_Array {
