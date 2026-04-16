@@ -1,4 +1,4 @@
-package _06_Fibnocci_Series;
+package _06_fibnocci_series;
 
 /**
  * This class generates and prints the Fibonacci series up to the 10th number.

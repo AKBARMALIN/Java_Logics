@@ -1,4 +1,4 @@
-package _08_RandomNumbers;
+package _08_random_numbers;
 
 /**
  * This class demonstrates generating a random number using Java's Math.random() method.

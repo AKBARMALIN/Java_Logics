@@ -1,4 +1,4 @@
-package _04_Count_Digits;
+package _04_count_digits;
 
 import java.util.Scanner;
 

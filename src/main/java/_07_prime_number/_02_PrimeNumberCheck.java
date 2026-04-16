@@ -1,4 +1,4 @@
-package _07_PrimeNumber;
+package _07_prime_number;
 
 /**
  * This class provides functionality to check if a number is prime.

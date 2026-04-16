@@ -2,6 +2,10 @@ package _26_user_defined_exceptions;
 
 import java.util.Scanner;
 
+/*
+   Sometimes to meet programming requirements we can define our own exceptions.
+   such type of exceptions are called customized or used defined exceptions.
+ */
 public class CustException {
 
     public static void main(String[] args) {

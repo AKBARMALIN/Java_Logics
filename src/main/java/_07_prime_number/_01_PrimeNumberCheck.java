@@ -1,4 +1,4 @@
-package _07_PrimeNumber;
+package _07_prime_number;
 
 import java.util.Scanner;
 
