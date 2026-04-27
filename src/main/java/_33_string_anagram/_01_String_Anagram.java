@@ -1,8 +1,8 @@
-package _21_string_manipulations;
+package _33_string_anagram;
 
 import java.util.Arrays;
 
-public class _25_String_Anagram {
+public class _01_String_Anagram {
 
     public static void main(String[] args) {
 

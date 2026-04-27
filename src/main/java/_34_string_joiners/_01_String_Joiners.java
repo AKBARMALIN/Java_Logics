@@ -1,8 +1,8 @@
-package _21_string_manipulations;
+package _34_string_joiners;
 
 import java.util.StringJoiner;
 
-public class _16_String_Joiners {
+public class _01_String_Joiners {
 
     public static void main(String[] args) {
 
